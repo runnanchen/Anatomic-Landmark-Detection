@@ -8,7 +8,7 @@ This is the source code of [Cephalometric Landmark Detection by Attentive Featur
 - PyTorch 1.0.0-1.7.0
 
 ## Dataset and setup
-- Download the dataset from the official [webside](https://figshare.com/s/37ec464af8e81ae6ebbf) and put it in the root. We also provide the low-resolution version [dataset](https://drive.google.com/file/d/1fGoaoZbp04NVi41jcEoEmbbCxrUcpjUO/view?usp=sharing) for a quick start.
+- Download the dataset from the official [webside](https://figshare.com/s/37ec464af8e81ae6ebbf) and put it in the root. We also provide the processed [dataset](https://drive.google.com/file/d/1fGoaoZbp04NVi41jcEoEmbbCxrUcpjUO/view?usp=sharing) for a quick start.
 
 ## Training and validation
 - python main.py
